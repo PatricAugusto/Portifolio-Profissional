@@ -13,3 +13,14 @@
 .header .title{
     text-align: center;
 }
+
+.information{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.information p{
+    margin: .5rem;
+}
